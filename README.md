@@ -50,6 +50,7 @@ buildというディレクトリ名にすることが多いようですが，タ
 
 |変数名|意味|
 |:--|:--|
+|`${workspaceRoot}`|VSCodeで開いたワークスペースのルートディレクトリ|
 |`${fileBasename}`|現在開いているファイル名|
 |`${fileBasenameNoExtension}`|現在開いているファイル名（拡張子を除く）|
 |`${workspaceFolder}`|VSCodeで開いているディレクトリ名（パスを含む）|
